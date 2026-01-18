@@ -116,8 +116,7 @@ This project is proprietary and developed for **Shri Venkatesh Stock Broking**.
 For any inquiries or support relative to this codebase:
 
 **Shri Venkatesh Stock Broking**
-*   **Email:** [Add Email Here]
-*   **Website:** [Add Website URL Here]
+*   **Email:** kartik0pandey00@gmail.com
 
 ---
 *Built with ❤️ for a smarter financial future.*
